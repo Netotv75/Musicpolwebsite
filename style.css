@@ -1,0 +1,132 @@
+body {
+    font-size: 15pt;
+}
+
+
+
+
+nav {
+  background-color: greenyellow;
+  padding: 10px;
+}
+
+.logo img {
+  height: 50px; /* Ajusta el tamaño según tus necesidades */
+}
+
+
+
+
+
+
+
+
+
+.encabezado {
+  background-color: blue;
+  padding: 20px;
+}
+
+.encabezado h1 {
+  color: greenyellow;
+  text-align: center;
+  margin: 0;
+}
+
+
+
+
+
+
+
+
+
+.boton {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: greenyellow;
+  color: blue;
+  text-decoration: none;
+}
+
+.boton:hover {
+  background-color: greenyellow;
+  color: lightblue;
+}
+
+
+
+
+
+
+
+
+
+
+.carrusel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px; /* Ajusta el ancho del carrusel según tus necesidades */
+  height: 100px; /* Ajusta la altura del carrusel según tus necesidades */
+  overflow: hidden;
+}
+
+.logo {
+  width: 50px; /* Ajusta el ancho del logo según tus necesidades */
+  height: 50px; /* Ajusta la altura del logo según tus necesidades */
+  object-fit: contain;
+  margin: 0 10px; /* Ajusta el margen según tus necesidades */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+
+.creditos {
+  text-align: center;
+  font-size: 14px;
+  color: #555;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+.texto-fondo-verde {
+  background-color: greenyellow;
+  color: #fff;
+  padding: 20px;
+}
